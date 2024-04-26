@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "263254548752",
+    "firebase_url": "https://product-db-e205f-default-rtdb.firebaseio.com",
+    "project_id": "product-db-e205f",
+    "storage_bucket": "product-db-e205f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263254548752:android:6fc511e10d24847eb0c595",
+        "android_client_info": {
+          "package_name": "com.example.product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNWQTNLJ8j9buiq3xJMP7i8THovK5-zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
